@@ -1,0 +1,91 @@
+{
+ "surum": 70,
+ "ad": "Beta 1, sürüm 70",
+ "notlar": "Bilgisayarda görüntü: az görenler ve görenler için kuşbakışı harita. Android: yeni Android sürümlerindeki 'eski Android için yapılmış' uyarısı giderildi.",
+ "pc": [
+  {
+   "dosya": "YankiSavaslari.exe",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
+   "md5": "1dab9cd72f6100167fce35cbc833f9c8",
+   "boyut": 30746112
+  },
+  {
+   "dosya": "telsiz.dat",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/telsiz.dat",
+   "md5": "45f4faeda69e24c77ff32066b8761cf7",
+   "boyut": 46520566
+  },
+  {
+   "dosya": "nvdaControllerClient64.dll",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/nvdaControllerClient64.dll",
+   "md5": "04968fa4708c2ca92edaab379ea9e845",
+   "boyut": 153600
+  },
+  {
+   "dosya": "giris_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/giris_filmi.wav",
+   "md5": "6686145a9e9a2254937a7e28d8f30366",
+   "boyut": 405598
+  },
+  {
+   "dosya": "onsoz_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/onsoz_filmi.wav",
+   "md5": "010847b6a495fb787b6fee4843a57e4c",
+   "boyut": 3462238
+  },
+  {
+   "dosya": "sezon1_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/sezon1_filmi.wav",
+   "md5": "ac3725ca5f9969d02e6a56fec758aca3",
+   "boyut": 3321950
+  },
+  {
+   "dosya": "sezon2_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/sezon2_filmi.wav",
+   "md5": "d14bd66b49aedabcf28e143429566eae",
+   "boyut": 3522654
+  },
+  {
+   "dosya": "sezon3_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/sezon3_filmi.wav",
+   "md5": "078c629f00fa50e59819648560449711",
+   "boyut": 3850334
+  },
+  {
+   "dosya": "sezon4_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/sezon4_filmi.wav",
+   "md5": "de852d64ace6583917e8a5575d4eef35",
+   "boyut": 3795038
+  },
+  {
+   "dosya": "sezon5_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/sezon5_filmi.wav",
+   "md5": "67c7a372809cff58ba1df5ab1fa2162a",
+   "boyut": 3701854
+  },
+  {
+   "dosya": "sezon6_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/sezon6_filmi.wav",
+   "md5": "4d65b9115ff5b58481112144f28e8721",
+   "boyut": 3846238
+  },
+  {
+   "dosya": "sezon6a_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/sezon6a_filmi.wav",
+   "md5": "7755b7869cdf6b5646d3b8916f9f3eec",
+   "boyut": 3508318
+  },
+  {
+   "dosya": "final_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/final_filmi.wav",
+   "md5": "88e62487b693c90637c44168590d413a",
+   "boyut": 3543134
+  }
+ ],
+ "android": {
+  "dosya": "YankiSavaslari.apk",
+  "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
+  "md5": "13a6c45cd066f0bece58764a896f1413",
+  "boyut": 77139670
+ }
+}
