@@ -1,13 +1,13 @@
 {
- "surum": 73,
- "ad": "Beta 1, sürüm 73",
- "notlar": "Hikâye modunda silahlar artık Komutan Demir'den geliyor. Serbest oyun ve hayatta kalma geliştirme aşamasında olduğu için kapalı.",
+ "surum": 74,
+ "ad": "Beta 1, sürüm 74",
+ "notlar": "Ana menüde iki modun adı değişti: Hayatta kalma artık Son Siper, Serbest oyun artık Çatışma. İki mod da geliştirme aşamasında olduğu için şimdilik kapalı; açılınca duyurulacak.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "f522dff85ab42adf6e840fe8a2d68023",
-   "boyut": 30774784
+   "md5": "792150f7c93df8cad642df5f863e45c0",
+   "boyut": 31093248
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "2428a83868ab6aff693bfa397410a7d2",
-  "boyut": 77811414
+  "md5": "a3b1781e66cf9fc8687174c7408cac24",
+  "boyut": 77553366
  }
 }
