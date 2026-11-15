@@ -1,13 +1,13 @@
 {
- "surum": 76,
- "ad": "Beta 1, sürüm 76",
- "notlar": "Büyük güncelleme. Her modda teçhizat: 9 tuşu el bombası, yapışkan bomba, mayın, tel tuzak, yangın bombası; 0 tuşu flaş, sis, yem bombası, ses sensörü, sarsıntı bombası. Shift ile 9 ya da 0 değiştirir. Silahlar kullandıkça seviye atlar, Karargâhtaki silah atölyesinden susturucu, uzun namlu, geniş şarjör gibi eklentiler takılır. Shift ile C çömel ve yat, koşarken C kay; siperde Shift ile A ve D eğil; keskin nişancıda dururken Shift ile nefes tut. Hikâyede her görevde gizli istihbarat kaydı ve iki yeni yan görev. Haftalık görevler, onur sistemi, sezon ödül yolu, hafta sonu çift tecrübe, kademeli başarımlar. Ayarlarda sol ve sağ kulak sesi, tek kanal ses, otomatik tırmanma ve oyun kumandası.",
+ "surum": 77,
+ "ad": "Beta 1, sürüm 77",
+ "notlar": "Bütün modlar artık herkese açık! Ana menüde: Son Siper (dalgalara dayan; madalyonlar, özel mermiler, zırh plakası, gizli görev ve Yankı topu, turlar arasında kaydet ve çık), Çatışma (botlarla maçlar; yeni İkmal Bölgesi modu, üç yetenek, kayıtlı sınıflar, zor mod, yeni seri ödülleri) ve yeni Sızma modu (ganimet topla, sözleşmeni bitir, helikopterle kaç). Günlük ve haftalık görevlerde bu modlara ait görevler de çıkar. Önceki sürümün bütün yenilikleri de bu sürümde.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "75d3e467d39bd594df9ea5a04c19186e",
-   "boyut": 31368192
+   "md5": "39ca3c4a622096deb4e8a01ba3737fe9",
+   "boyut": 31366656
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "f32393ee77700a61dedc0797fe274ed9",
-  "boyut": 77881046
+  "md5": "3056681c200b23c9edf53b5150353a09",
+  "boyut": 77876950
  }
 }
