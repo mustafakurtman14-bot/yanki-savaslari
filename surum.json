@@ -1,13 +1,13 @@
 {
- "surum": 78,
- "ad": "Beta 1, sürüm 78",
- "notlar": "Hikâye modu baştan yazıldı! Yeni hikâyede görevler birbirini tekrar etmiyor: istasyonun ses haritasını çıkarıyor, sahte telsiz çağrılarını gerçeğinden ayırıyor, kayıtları sıraya koyuyor, sivilleri kurtarıyor, tanıkları sorguluyor ve kararlar veriyorsun. Gölge'nin ve Fısıltı'nın gerçek hikâyesi, Kaya'nın ihaneti ve Doğan ile Emre'nin hikâyesi yeniden anlatılıyor; iki farklı final var. Yeni konuşmalar ve filmler henüz seslendirilmedi; şimdilik ekran okuyucun okuyor. Kayıtların ve ilerlemen korunuyor.",
+ "surum": 79,
+ "ad": "Beta 1, sürüm 79",
+ "notlar": "Yeni: ana menüde Teçhizat eğitimi. El bombası, yapışkan bomba, yangın bombası, mayın, tel tuzak, flaş, sis, yem bombası, ses sensörü ve sarsıntı bombasını tek tek deneyerek öğreniyorsun; silah eklentileri ve teçhizat çantası da anlatılıyor. Ayarlar'da yeni Konuşma hızı ayarı: Android'de oyunun konuşma sesini yüzde 50 ile yüzde 300 arasında hızlandırıp yavaşlatabilirsin. Önceki sürümdeki yeni hikâye de bu sürümde.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "05b73ad6f43ee9e9ff03890ad607da46",
-   "boyut": 31484928
+   "md5": "4bd3c430beb2841dd801ef5d77524c9f",
+   "boyut": 31515136
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "4194498727c4f4ee64c08cbd17aa57f3",
-  "boyut": 50801702
+  "md5": "7e35d5f8633c398ee56122364a8a1392",
+  "boyut": 50830374
  }
 }
