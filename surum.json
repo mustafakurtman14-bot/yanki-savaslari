@@ -1,13 +1,13 @@
 {
- "surum": 79,
- "ad": "Beta 1, sürüm 79",
- "notlar": "Yeni: ana menüde Teçhizat eğitimi. El bombası, yapışkan bomba, yangın bombası, mayın, tel tuzak, flaş, sis, yem bombası, ses sensörü ve sarsıntı bombasını tek tek deneyerek öğreniyorsun; silah eklentileri ve teçhizat çantası da anlatılıyor. Ayarlar'da yeni Konuşma hızı ayarı: Android'de oyunun konuşma sesini yüzde 50 ile yüzde 300 arasında hızlandırıp yavaşlatabilirsin. Önceki sürümdeki yeni hikâye de bu sürümde.",
+ "surum": 80,
+ "ad": "Beta 1, sürüm 80",
+ "notlar": "Telefon için yeni hareketler. Sol tarafta parmağını sola ya da sağa çekip tutarsan dönmeye devam edersin; ne kadar uzağa çekersen o kadar hızlı dönersin, azıcık çekersen yavaş dönüp nişan alırsın. Hızlı fırlatma yine 45 derece döndürür. Ayarlar'da yeni Dönerken yana adım at seçeneği: açarsan yana çektiğinde hem döner hem o yana yürürsün. İki parmakla sağa kaydır sonraki teçhizat, sola kaydır önceki teçhizat; seçtikten sonra iki parmakla dokunursan atarsın. Önceki sürümlerdeki Teçhizat eğitimi, Konuşma hızı ayarı ve yeni hikâye de bu sürümde.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "4bd3c430beb2841dd801ef5d77524c9f",
-   "boyut": 31515136
+   "md5": "5cd68d5c2f911a9dac9cc5207f8182fc",
+   "boyut": 31518208
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "7e35d5f8633c398ee56122364a8a1392",
-  "boyut": 50830374
+  "md5": "4e718befa51458726ca86b2487c5ce15",
+  "boyut": 50842662
  }
 }
