@@ -1,13 +1,13 @@
 {
- "surum": 81,
- "ad": "Beta 1, sürüm 81",
- "notlar": "Telefon için yeni joystick düzeni. Ayarlar'da Sol taraf düzenini joystick yaparsan sol tarafta dört yöne yürürsün: yukarı ileri, aşağı geri, sola ve sağa yana. Nişan almak için sol tarafa çift dokun, ikinci dokunuşta parmağını kaldırmadan sola ya da sağa çekip tut; ne kadar uzağa çekersen o kadar hızlı dönersin. Hızlı fırlatma iki düzende de 45 derece döndürür. Önceki sürümden: dönüş düzeninde yana çekip tutarak dönme, Dönerken yana adım at ayarı, iki parmakla sağa ve sola kaydırarak teçhizat seçme.",
+ "surum": 82,
+ "ad": "Beta 1, sürüm 82",
+ "notlar": "Güncellemeden sonra yenilikler artık açılışta otomatik okunur. Telefonda Ayarlar'da Sol taraf düzeni: dönüş ya da joystick. Dönüş düzeninde sol tarafta yana çekip tutarak dönersin, ne kadar uzağa çekersen o kadar hızlı. Joystick düzeninde sol tarafta dört yöne yürürsün; nişan için sol tarafa çift dokun, ikinci dokunuşta parmağını kaldırmadan yana çekip tut. Hızlı fırlatma iki düzende de 45 derece döndürür. İki parmakla sağa ve sola kaydırarak teçhizat seçer, iki parmakla dokunarak atarsın.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "866249a42f9a3b53eb84adc3be03106f",
-   "boyut": 31520768
+   "md5": "8e55e0362475c279b169396432e81f9e",
+   "boyut": 31523328
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "c39c3525b6282e5613201a69900d78a4",
-  "boyut": 50850854
+  "md5": "7f7f7894c28faffc670ed13fcdaa3c1d",
+  "boyut": 50854950
  }
 }
