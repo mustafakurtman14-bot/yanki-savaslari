@@ -1,13 +1,13 @@
 {
- "surum": 85,
- "ad": "Beta 1, sürüm 85",
- "notlar": "Telefonda ve iPhone'da Sol taraf düzeni artık joystick: sol tarafta parmağını kaydırıp tutarak dört yöne yürürsün. Nişan alıp dönmek için sol tarafa çift dokun, ikinci dokunuşta parmağını kaldırmadan yana çekip tut. Eski düzeni isteyen Ayarlar'dan dönüş düzenine geçebilir. Bilgisayar sürümünde değişiklik yok.",
+ "surum": 86,
+ "ad": "Beta 1, sürüm 86",
+ "notlar": "Android'de yeni sürüm çıkınca artık oyun kapalıyken de telefonuna bildirim gelir; telefon birkaç saatte bir kontrol eder. Android 13 ve sonrasında oyun ilk açılışta bildirim izni ister: ekranın ortasındaki üstteki düğme İzin ver. İstemezsen Ayarlar'da Güncelleme bildirimlerini kapat. Bilgisayar sürümünde değişiklik yok.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "4cd3cc906a5b7d515c2e1a2bfc1469e6",
-   "boyut": 31529984
+   "md5": "5bc23d30a247b99f9c969f65c8f2d69e",
+   "boyut": 31533056
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "69d3a537a48cdf72cbdac7fbcb1991df",
-  "boyut": 50867238
+  "md5": "acedae831446c669b2f10c67ef9ed75c",
+  "boyut": 50875430
  }
 }
