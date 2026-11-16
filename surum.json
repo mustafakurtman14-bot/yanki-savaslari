@@ -1,13 +1,13 @@
 {
- "surum": 83,
- "ad": "Beta 1, sürüm 83",
- "notlar": "Telefonda menülerde yukarı fiske yaparsan bir önceki menüye dönersin; ana menüde bir şey yapmaz. Ses düzeyi ya da konuşma hızı gibi değeri olan bir seçenekte önce çift dokun, ayarlama açılır; sonra yukarı kaydırarak artır, aşağı kaydırarak azalt. Bitirmek için sağa ya da sola kaydır. Önceki sürümlerden: güncellemeden sonra yenilikler açılışta okunur, Ayarlar'da Sol taraf düzeni (dönüş ya da joystick), iki parmakla teçhizat seçme.",
+ "surum": 84,
+ "ad": "Beta 1, sürüm 84",
+ "notlar": "Telefonda Ayarlar'da yeni Otomatik can paketi kullan seçeneği: canın belirlediğin sınırın altına inince oyun can paketini kendisi kullanır. Başlangıçta yüzde 35'te açık. Bilgisayar sürümünde değişiklik yok.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "7168b81f7d70c99eba3da4b9fbc1f688",
-   "boyut": 31523840
+   "md5": "14f8e733a2843bd038c5b0ef00b80eb6",
+   "boyut": 31528960
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "dd794d44914d9294f635a76075a2a232",
-  "boyut": 50859046
+  "md5": "35dca8ee0ad2b4e8462c357d182784ad",
+  "boyut": 50867238
  }
 }
