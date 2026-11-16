@@ -1,13 +1,13 @@
 {
- "surum": 84,
- "ad": "Beta 1, sürüm 84",
- "notlar": "Telefonda Ayarlar'da yeni Otomatik can paketi kullan seçeneği: canın belirlediğin sınırın altına inince oyun can paketini kendisi kullanır. Başlangıçta yüzde 35'te açık. Bilgisayar sürümünde değişiklik yok.",
+ "surum": 85,
+ "ad": "Beta 1, sürüm 85",
+ "notlar": "Telefonda ve iPhone'da Sol taraf düzeni artık joystick: sol tarafta parmağını kaydırıp tutarak dört yöne yürürsün. Nişan alıp dönmek için sol tarafa çift dokun, ikinci dokunuşta parmağını kaldırmadan yana çekip tut. Eski düzeni isteyen Ayarlar'dan dönüş düzenine geçebilir. Bilgisayar sürümünde değişiklik yok.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "14f8e733a2843bd038c5b0ef00b80eb6",
-   "boyut": 31528960
+   "md5": "4cd3cc906a5b7d515c2e1a2bfc1469e6",
+   "boyut": 31529984
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "35dca8ee0ad2b4e8462c357d182784ad",
+  "md5": "69d3a537a48cdf72cbdac7fbcb1991df",
   "boyut": 50867238
  }
 }
