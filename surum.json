@@ -1,13 +1,13 @@
 {
- "surum": 90,
- "ad": "Beta 1, sürüm 90",
- "notlar": "Hikâyede birbirine benzeyen görevler azaldı: suya düşen işçiye ip sarkıtıyorsun, kaybolan haberciyi dronla buluyorsun, donmuş askeri sırtında taşıyorsun. Kamyon görevleri ayrıldı: buzlu yolda direksiyondasın, konvoyu kovalayıp önüne kırıyorsun. Sakin anlarda artık sen de cevap veriyorsun.",
+ "surum": 91,
+ "ad": "Beta 1, sürüm 91",
+ "notlar": "Kuleye uçuşta pilotun gözü sensin: roketin ıslığı hangi yandan gelirse pilota söylüyorsun, pilot öbür yana kırıyor. Sakin anlara küçük işler eklendi: radyo istasyonunu sesle ayarlamak, davul ritmi tutmak, ateş için çıtırdayan dalları toplamak, Doğan'la Martı'nın ezgisini çalmak.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "a4d4e21787667caad6aba26df633fdcc",
-   "boyut": 31659008
+   "md5": "f2bb1cb8545eaa3ec2fa93cd24cb3d04",
+   "boyut": 31674880
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "18a128a0b416dabcf17f565fdbca614d",
-  "boyut": 51805222
+  "md5": "da3bdcffedaf9fd8a8c21c98b0b319c3",
+  "boyut": 51821606
  }
 }
