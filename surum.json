@@ -1,13 +1,13 @@
 {
- "surum": 87,
- "ad": "Beta 1, sürüm 87",
- "notlar": "Nişan yardımı artık telefonda da çalışıyor: parmakla dönerken nişan düşmanın üzerine gelince dönüş yavaşlar ve düşmana doğru çekilir. Sol tarafa art arda üç kez dokunursan hedef seçersin, nişanın o düşmana döner ve onu izler. Bilgisayar sürümünde değişiklik yok.",
+ "surum": 88,
+ "ad": "Beta 1, sürüm 88",
+ "notlar": "Hikâye modu baştan yazıldı: Hikâye 2.0. Yetmiş bir ana görev ve yedi yan görev, her biri başka bir deneyim. Su altında yüzersin, iple uçurumdan inersin, yaralı arkadaşını sırtında taşırsın, maymuncukla kilit açarsın, rüzgâra göre keskin nişancı atışı yaparsın, trenin üstünde ilerlersin, tekneyle kovalarsın, köpekle iz sürersin, topçuyu yönlendirirsin, dron uçurursun, dolaba saklanıp nefesini tutarsın. Eski ilerlemen yeni hikâyede kaldığın yere taşındı. Yeni cümleleri şimdilik ekran okuyucu okur.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "0839cbddbe0b26e0215c9868b4a0bbeb",
-   "boyut": 31534592
+   "md5": "28c96d083736d9a561308ad00fffb55b",
+   "boyut": 31617024
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "97305d2d1e73a8e2fac59e114745eef0",
-  "boyut": 50879526
+  "md5": "09c7709adf70ecff59abd3a9f89bc551",
+  "boyut": 51768358
  }
 }
