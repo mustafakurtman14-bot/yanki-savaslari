@@ -1,13 +1,13 @@
 {
- "surum": 91,
- "ad": "Beta 1, sürüm 91",
- "notlar": "Kuleye uçuşta pilotun gözü sensin: roketin ıslığı hangi yandan gelirse pilota söylüyorsun, pilot öbür yana kırıyor. Sakin anlara küçük işler eklendi: radyo istasyonunu sesle ayarlamak, davul ritmi tutmak, ateş için çıtırdayan dalları toplamak, Doğan'la Martı'nın ezgisini çalmak.",
+ "surum": 92,
+ "ad": "Beta 1, sürüm 92",
+ "notlar": "Düşmanlar artık konuşuyor: seni görünce bağırıyorlar, çatışmada birbirlerine sesleniyorlar, uzaktakiler telsizle takviye istiyor; sesleri bulundukları yerden gelir. Sıralama bulmacalarının çoğu değişti: davulda, mızıkada ve vanada doğru anı yakalayıp basıyorsun. Sorgunun sonunda Kaya kaçıyor, peşinden koşuyorsun.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "f2bb1cb8545eaa3ec2fa93cd24cb3d04",
-   "boyut": 31674880
+   "md5": "9c1bc3141205f0e6ff6d47329d7b45e8",
+   "boyut": 31687168
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "da3bdcffedaf9fd8a8c21c98b0b319c3",
-  "boyut": 51821606
+  "md5": "35c1274b97321c48bf7372e6979f76f2",
+  "boyut": 51833894
  }
 }
