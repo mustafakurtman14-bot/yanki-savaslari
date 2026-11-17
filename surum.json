@@ -1,13 +1,13 @@
 {
- "surum": 89,
- "ad": "Beta 1, sürüm 89",
- "notlar": "Hikâye 2.0'a ekler: Çavuş Doğan görevlerde yanında yürürken yine konuşuyor. Görevlerin ortasında yeni telsiz konuşmaları geliyor. Sorgularda doğru bilgi aldıysan sonraki görevlerde işine yarıyor. Kum fırtınasında düşman radarı çalışmıyor, bazı yollarda pusu var. Hikâyedeki birkaç tutarsızlık düzeltildi.",
+ "surum": 90,
+ "ad": "Beta 1, sürüm 90",
+ "notlar": "Hikâyede birbirine benzeyen görevler azaldı: suya düşen işçiye ip sarkıtıyorsun, kaybolan haberciyi dronla buluyorsun, donmuş askeri sırtında taşıyorsun. Kamyon görevleri ayrıldı: buzlu yolda direksiyondasın, konvoyu kovalayıp önüne kırıyorsun. Sakin anlarda artık sen de cevap veriyorsun.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "8e0eb835b17fb3419efedc55fa2f8f43",
-   "boyut": 31647232
+   "md5": "a4d4e21787667caad6aba26df633fdcc",
+   "boyut": 31659008
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "b1f998fea18025d545f687ef4e268b57",
-  "boyut": 51792934
+  "md5": "18a128a0b416dabcf17f565fdbca614d",
+  "boyut": 51805222
  }
 }
