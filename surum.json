@@ -1,13 +1,13 @@
 {
- "surum": 88,
- "ad": "Beta 1, sürüm 88",
- "notlar": "Hikâye modu baştan yazıldı: Hikâye 2.0. Yetmiş bir ana görev ve yedi yan görev, her biri başka bir deneyim. Su altında yüzersin, iple uçurumdan inersin, yaralı arkadaşını sırtında taşırsın, maymuncukla kilit açarsın, rüzgâra göre keskin nişancı atışı yaparsın, trenin üstünde ilerlersin, tekneyle kovalarsın, köpekle iz sürersin, topçuyu yönlendirirsin, dron uçurursun, dolaba saklanıp nefesini tutarsın. Eski ilerlemen yeni hikâyede kaldığın yere taşındı. Yeni cümleleri şimdilik ekran okuyucu okur.",
+ "surum": 89,
+ "ad": "Beta 1, sürüm 89",
+ "notlar": "Hikâye 2.0'a ekler: Çavuş Doğan görevlerde yanında yürürken yine konuşuyor. Görevlerin ortasında yeni telsiz konuşmaları geliyor. Sorgularda doğru bilgi aldıysan sonraki görevlerde işine yarıyor. Kum fırtınasında düşman radarı çalışmıyor, bazı yollarda pusu var. Hikâyedeki birkaç tutarsızlık düzeltildi.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "28c96d083736d9a561308ad00fffb55b",
-   "boyut": 31617024
+   "md5": "8e0eb835b17fb3419efedc55fa2f8f43",
+   "boyut": 31647232
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "09c7709adf70ecff59abd3a9f89bc551",
-  "boyut": 51768358
+  "md5": "b1f998fea18025d545f687ef4e268b57",
+  "boyut": 51792934
  }
 }
