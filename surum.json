@@ -1,13 +1,13 @@
 {
- "surum": 93,
- "ad": "Beta 1, sürüm 93",
- "notlar": "Hikâye modu artık tek bir akış. Hikâyeye devam et dediğinde kaldığın görev hemen başlar; görev bitince birkaç saniye sonra sıradaki görev ya da sezon filmi kendiliğinden gelir, aralarda menü yok. Beklemeden geçmek için ekrana çift dokun, hikâye menüsüne dönmek için yukarı fiske. Bitmiş görevleri ve yıldızlarını Bitmiş görevleri tekrar oyna listesinde bulursun.",
+ "surum": 94,
+ "ad": "Beta 1, sürüm 94",
+ "notlar": "Hikâye modunda yeni seçenek: Hikâyeyi sıfırla. Hikâye yenilendiği için baştan oynamak istersen bunu seç; Evet dersen görevler, yıldızlar ve kararların silinir, Önsöz'den başlarsın. Rütben, tecrüben, hurdan ve silahların durur. Bir önceki sürümde hikâye tek bir akış oldu: görevler arka arkaya kendiliğinden geliyor.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "a205c598f4fc10d6645b4b34749fda25",
-   "boyut": 31702016
+   "md5": "31a8d0f667c8d22fe13bfb5abf535140",
+   "boyut": 31708160
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "3df989b9c30552496307df355b40e2a4",
-  "boyut": 51862566
+  "md5": "c09789569434e43f717d397ae7de7664",
+  "boyut": 51870758
  }
 }
