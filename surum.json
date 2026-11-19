@@ -1,13 +1,13 @@
 {
- "surum": 92,
- "ad": "Beta 1, sürüm 92",
- "notlar": "Düşmanlar artık konuşuyor: seni görünce bağırıyorlar, çatışmada birbirlerine sesleniyorlar, uzaktakiler telsizle takviye istiyor; sesleri bulundukları yerden gelir. Sıralama bulmacalarının çoğu değişti: davulda, mızıkada ve vanada doğru anı yakalayıp basıyorsun. Sorgunun sonunda Kaya kaçıyor, peşinden koşuyorsun.",
+ "surum": 93,
+ "ad": "Beta 1, sürüm 93",
+ "notlar": "Hikâye modu artık tek bir akış. Hikâyeye devam et dediğinde kaldığın görev hemen başlar; görev bitince birkaç saniye sonra sıradaki görev ya da sezon filmi kendiliğinden gelir, aralarda menü yok. Beklemeden geçmek için ekrana çift dokun, hikâye menüsüne dönmek için yukarı fiske. Bitmiş görevleri ve yıldızlarını Bitmiş görevleri tekrar oyna listesinde bulursun.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "9c1bc3141205f0e6ff6d47329d7b45e8",
-   "boyut": 31687168
+   "md5": "a205c598f4fc10d6645b4b34749fda25",
+   "boyut": 31702016
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "35c1274b97321c48bf7372e6979f76f2",
-  "boyut": 51833894
+  "md5": "3df989b9c30552496307df355b40e2a4",
+  "boyut": 51862566
  }
 }
