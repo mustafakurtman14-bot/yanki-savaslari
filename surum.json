@@ -1,13 +1,13 @@
 {
- "surum": 94,
- "ad": "Beta 1, sürüm 94",
- "notlar": "Hikâye modunda yeni seçenek: Hikâyeyi sıfırla. Hikâye yenilendiği için baştan oynamak istersen bunu seç; Evet dersen görevler, yıldızlar ve kararların silinir, Önsöz'den başlarsın. Rütben, tecrüben, hurdan ve silahların durur. Bir önceki sürümde hikâye tek bir akış oldu: görevler arka arkaya kendiliğinden geliyor.",
+ "surum": 95,
+ "ad": "Beta 1, sürüm 95",
+ "notlar": "Hikâye artık ayrı bir dünya. Hikâyede tecrübe ve hurda kazanılmıyor; Karargâhtaki silah seviyeleri, zırh ve teçhizat yalnızca Çatışma, Son Siper ve Sızma için. Hikâyenin parası yıldız: görevlerden, zulalardan ve istihbarattan yıldız toplayıp hikâye menüsündeki Cephanelikte silahlarını geliştirir, eklenti, zırh, can paketi ve teçhizat alırsın. Hikâyenin kendi rütbesi ve başarımları var. Şimdiye kadar topladığın yıldızlar Cephanelikte seni bekliyor.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "31a8d0f667c8d22fe13bfb5abf535140",
-   "boyut": 31708160
+   "md5": "5942f41508c62a1faa8f32753a61734f",
+   "boyut": 31818752
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "c09789569434e43f717d397ae7de7664",
-  "boyut": 51870758
+  "md5": "cf8157a8065de559bdcf6483fb5ac822",
+  "boyut": 51993638
  }
 }
