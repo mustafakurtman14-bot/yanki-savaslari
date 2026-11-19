@@ -1,19 +1,19 @@
 {
- "surum": 95,
- "ad": "Beta 1, sürüm 95",
- "notlar": "Hikâye artık ayrı bir dünya. Hikâyede tecrübe ve hurda kazanılmıyor; Karargâhtaki silah seviyeleri, zırh ve teçhizat yalnızca Çatışma, Son Siper ve Sızma için. Hikâyenin parası yıldız: görevlerden, zulalardan ve istihbarattan yıldız toplayıp hikâye menüsündeki Cephanelikte silahlarını geliştirir, eklenti, zırh, can paketi ve teçhizat alırsın. Hikâyenin kendi rütbesi ve başarımları var. Şimdiye kadar topladığın yıldızlar Cephanelikte seni bekliyor.",
+ "surum": 96,
+ "ad": "Beta 1, sürüm 96",
+ "notlar": "Hikâyenin telsiz konuşmaları artık seslendirildi. Selin, Doğan, Barış, Derya, Rıza ve öbür karakterler ekran okuyucu yerine kendi sesleriyle konuşuyor. Komutan Demir'in sesi değişti: artık yalnızca ona ait, daha tok bir sesi var. Hikâye filmleri şimdilik eskisi gibi.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "5942f41508c62a1faa8f32753a61734f",
-   "boyut": 31818752
+   "md5": "91895d2b1ab33c6f404bf1417bcac14a",
+   "boyut": 32450560
   },
   {
    "dosya": "telsiz.dat",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/telsiz.dat",
-   "md5": "d2a2faaf3696ea6f9cc4484c9c63ed2d",
-   "boyut": 47240440
+   "md5": "496fb17ef610de930faa14518f2ad0da",
+   "boyut": 64405694
   },
   {
    "dosya": "nvdaControllerClient64.dll",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "cf8157a8065de559bdcf6483fb5ac822",
-  "boyut": 51993638
+  "md5": "68639c4d755060b8db3839a491ab7ef9",
+  "boyut": 67382310
  }
 }
