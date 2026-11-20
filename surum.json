@@ -1,13 +1,13 @@
 {
- "surum": 97,
- "ad": "Beta 1, sürüm 97",
- "notlar": "Hikâyenin filmleri artık sesli. Giriş filmi, sezon sonları ve final kısa sahnelerle anlatılıyor: karakterler kendi sesleriyle konuşuyor, metro, liman, kasaba, dağ ve vadi kendi ortam sesleriyle geliyor. Kulaklıkla izlemen önerilir.",
+ "surum": 98,
+ "ad": "Beta 1, sürüm 98",
+ "notlar": "Susturuculu tabancanın sesi değişti: artık gerçek bir susturuculu tabancanın açık alanda kaydedilmiş atış sesi.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "8f275b66f23cabbe939d2e89e2e98737",
-   "boyut": 32453632
+   "md5": "c263cf0037c7c96c34f38b7596995844",
+   "boyut": 32393216
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "1a7c23cced92a65aa59c1621da85c5f9",
-  "boyut": 78470870
+  "md5": "dcac652bdf7549724101bb30ed7b957b",
+  "boyut": 78474966
  }
 }
