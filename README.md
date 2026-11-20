@@ -3,3 +3,9 @@
 Görme engelliler için tamamen sesle oynanan savaş oyunu. Yapımcı: Mustafa Kurtman.
 
 Bu depoda yalnızca oyunun güncelleme dosyaları durur. Oyun açılırken buradaki `surum.json` dosyasına bakar ve yeni sürüm varsa kendini günceller.
+
+## Sesler ve lisanslar
+
+- Karakter sesleri açık kaynak yapay seslerle üretildi: Piper fettah ve fahrettin (CC0), FreyaTTS (Apache-2.0).
+- Komutan Demir'in sesi Piper `tr_TR-dfki-medium` ile üretildi. Veri seti: DFKI MaryTTS Türkçe ses verisi (https://github.com/marytts/dfki-ot-data/), lisans CC BY-NC-SA 4.0. Komutan Demir'in ses kayıtları da bu lisansla, ticari olmayan kullanım için paylaşılır.
+- Efekt ve ortam seslerinin bir kısmı Pixabay'den (Pixabay İçerik Lisansı); geri kalanı oyunda sentezlenir.
