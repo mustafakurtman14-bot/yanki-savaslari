@@ -1,13 +1,13 @@
 {
- "surum": 99,
- "ad": "Beta 1, sürüm 99",
- "notlar": "Çatışma menüsünde bir satırın üzerine gelince ne anlama geldiği söyleniyor: modların kuralları, seri ödüllerinin ne olduğu, nasıl geldiği ve hangi rütbede açıldığı.",
+ "surum": 100,
+ "ad": "Beta 1, sürüm 100",
+ "notlar": "Çatışma menüsünde yeni ayar: Bot gücü. Kolay, Normal, Güçlü, Çok güçlü ve Ölümcül seçebilirsin. Ölümcül botlar çok isabetli ve iki kat hasar verir.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "b43de4044642c22ac12bf8a045eac303",
-   "boyut": 32400384
+   "md5": "358126f69652e938d9e8cb3316972535",
+   "boyut": 32404992
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "f0797f0dd0fe86faeca3d249e18116da",
-  "boyut": 78483158
+  "md5": "cbf66802c0d19512b8ecc6ea86b18597",
+  "boyut": 78487254
  }
 }
