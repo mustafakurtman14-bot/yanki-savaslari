@@ -1,13 +1,13 @@
 {
- "surum": 98,
- "ad": "Beta 1, sürüm 98",
- "notlar": "Susturuculu tabancanın sesi değişti: artık gerçek bir susturuculu tabancanın açık alanda kaydedilmiş atış sesi.",
+ "surum": 99,
+ "ad": "Beta 1, sürüm 99",
+ "notlar": "Çatışma menüsünde bir satırın üzerine gelince ne anlama geldiği söyleniyor: modların kuralları, seri ödüllerinin ne olduğu, nasıl geldiği ve hangi rütbede açıldığı.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "c263cf0037c7c96c34f38b7596995844",
-   "boyut": 32393216
+   "md5": "b43de4044642c22ac12bf8a045eac303",
+   "boyut": 32400384
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "dcac652bdf7549724101bb30ed7b957b",
-  "boyut": 78474966
+  "md5": "f0797f0dd0fe86faeca3d249e18116da",
+  "boyut": 78483158
  }
 }
