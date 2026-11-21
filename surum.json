@@ -1,13 +1,13 @@
 {
- "surum": 105,
- "ad": "Beta 1, sürüm 105",
- "notlar": "Topçu görevlerinde nişan almak keskin nişancıdaki gibi kolaylaştı. Dürbün tıkı topun olduğu kulaktan gelir, yaklaştıkça sıklaşır; sürekli ince bip duyunca yön doğrudur.",
+ "surum": 106,
+ "ad": "Beta 1, sürüm 106",
+ "notlar": "Hikâyede bütün yerler artık birbirine bağlı: görev bitince sıradaki yere ışınlanmıyorsun, şehirden yürüyüp kamyonla gidiyorsun. Hızlı menüdeki B seni gideceğin yolun yönüne çevirir.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "983ec50960c40b0208e98f5bec62211e",
-   "boyut": 31805952
+   "md5": "8596634a3b14ff661abd409b556ea5a0",
+   "boyut": 31836672
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "42189837b1b64647736c6779e2fdb77d",
-  "boyut": 77631190
+  "md5": "cd42578affdb2eb0baf03ed1b98b0007",
+  "boyut": 77663958
  }
 }
