@@ -1,13 +1,13 @@
 {
- "surum": 102,
- "ad": "Beta 1, sürüm 102",
- "notlar": "Hikâyede doğru anda basman gereken yerler kolaylaştı: kilitler, vana, davul ve mızıka. Doğru sesi duyduktan sonra basmak için artık daha uzun süren var.",
+ "surum": 103,
+ "ad": "Beta 1, sürüm 103",
+ "notlar": "Keskin nişancı görevlerinde nişan almak kolaylaştı. Dürbün tıkı hedefin olduğu kulaktan gelir, yaklaştıkça sıklaşır; sürekli ince bip duyunca ateş et. Telefonda sağ tarafta sağa ya da sola fırlatmak dürbünü biraz çevirir.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "fd31c844c737e8d6adccf21db02f3d73",
-   "boyut": 31796224
+   "md5": "a0f3c2040e0557278cff339b172372b4",
+   "boyut": 31802368
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "45efa264942ae073787a44fa10086afa",
-  "boyut": 77618902
+  "md5": "f1e8064c82c602adf64a35c9131be811",
+  "boyut": 77627094
  }
 }
