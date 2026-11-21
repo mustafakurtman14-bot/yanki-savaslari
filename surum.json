@@ -1,13 +1,13 @@
 {
- "surum": 104,
- "ad": "Beta 1, sürüm 104",
- "notlar": "Kilit, vana, davul ve mızıka gibi doğru anda basılan yerler artık her seferinde anlatılıyor. Sesler sen hazır olup dokununca başlar. İlk iki seferde oyun \"Şimdi bas!\" der, iki kez kaçırırsan yine söyler.",
+ "surum": 105,
+ "ad": "Beta 1, sürüm 105",
+ "notlar": "Topçu görevlerinde nişan almak keskin nişancıdaki gibi kolaylaştı. Dürbün tıkı topun olduğu kulaktan gelir, yaklaştıkça sıklaşır; sürekli ince bip duyunca yön doğrudur.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "c54096365a4f07c21e4cb76296fddb7f",
-   "boyut": 31803904
+   "md5": "983ec50960c40b0208e98f5bec62211e",
+   "boyut": 31805952
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "bec47d86401033d63b209a6488c73a60",
-  "boyut": 77627094
+  "md5": "42189837b1b64647736c6779e2fdb77d",
+  "boyut": 77631190
  }
 }
