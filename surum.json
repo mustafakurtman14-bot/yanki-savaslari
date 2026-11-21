@@ -1,13 +1,13 @@
 {
- "surum": 107,
- "ad": "Beta 1, sürüm 107",
- "notlar": "Dron görevlerinde düşmanları bulmak kolaylaştı. Hızlı menüdeki B dronu hedefe çevirir; tık sesi hedefin yönünü söyler, sürekli bip duyunca dokunup işaretle.",
+ "surum": 108,
+ "ad": "Beta 1, sürüm 108",
+ "notlar": "Eşlik görevlerinde hızlı menüdeki B artık seni eşlik ettiğin kişiye döndürür ve uzaklığını söyler; okul baskınında çocukları kampa götürürken çatışmada şıngırtıyı aramana gerek yok.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "549144a61d2e09f9d6996aa3b50d4dc0",
-   "boyut": 31844352
+   "md5": "a481ab46a73fef4f925ee7945465b304",
+   "boyut": 32458240
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "911d761d6688418a2de2ea18d69c00d8",
-  "boyut": 77672150
+  "md5": "c755444772fd6eb94c618b79b40aa5f4",
+  "boyut": 78544598
  }
 }
