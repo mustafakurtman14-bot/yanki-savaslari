@@ -1,13 +1,13 @@
 {
- "surum": 101,
- "ad": "Beta 1, sürüm 101",
- "notlar": "Hikâyede saklanma görevleri düzeldi. Havalandırma görevinde devriye artık uzaktan geliyor. Yaklaşınca \"adımlar çok yakın\" denir, o zaman nefesini tut; \"uzaklaşıyor\" denince nefes al. Telefonda nefes tutmak için sağ tarafa dokun.",
+ "surum": 102,
+ "ad": "Beta 1, sürüm 102",
+ "notlar": "Hikâyede doğru anda basman gereken yerler kolaylaştı: kilitler, vana, davul ve mızıka. Doğru sesi duyduktan sonra basmak için artık daha uzun süren var.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "1ef1d2b888abaa56fb1d1fc4a71a86e6",
-   "boyut": 31795712
+   "md5": "fd31c844c737e8d6adccf21db02f3d73",
+   "boyut": 31796224
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "8e70e0166738670a8e9c262cff920e1a",
+  "md5": "45efa264942ae073787a44fa10086afa",
   "boyut": 77618902
  }
 }
