@@ -1,13 +1,13 @@
 {
- "surum": 106,
- "ad": "Beta 1, sürüm 106",
- "notlar": "Hikâyede bütün yerler artık birbirine bağlı: görev bitince sıradaki yere ışınlanmıyorsun, şehirden yürüyüp kamyonla gidiyorsun. Hızlı menüdeki B seni gideceğin yolun yönüne çevirir.",
+ "surum": 107,
+ "ad": "Beta 1, sürüm 107",
+ "notlar": "Dron görevlerinde düşmanları bulmak kolaylaştı. Hızlı menüdeki B dronu hedefe çevirir; tık sesi hedefin yönünü söyler, sürekli bip duyunca dokunup işaretle.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "8596634a3b14ff661abd409b556ea5a0",
-   "boyut": 31836672
+   "md5": "549144a61d2e09f9d6996aa3b50d4dc0",
+   "boyut": 31844352
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "cd42578affdb2eb0baf03ed1b98b0007",
-  "boyut": 77663958
+  "md5": "911d761d6688418a2de2ea18d69c00d8",
+  "boyut": 77672150
  }
 }
