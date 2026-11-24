@@ -1,13 +1,13 @@
 {
- "surum": 109,
- "ad": "Beta 1, sürüm 109",
- "notlar": "Yeni: Çevrimiçi Düello denemesi. Çatışma menüsünün sonunda. Arkadaşlarınla dört kişi, iki takım hâlinde birbirinize karşı oynarsınız; biri oda açar, öbürleri dört haneli kodla katılır.",
+ "surum": 110,
+ "ad": "Beta 1, sürüm 110",
+ "notlar": "Çevrimiçi Düello için: sunucu uyuyorsa oyun artık birkaç saniye bekleyip bağlanıyor, lobide uzun beklerken bağlantı kopmuyor.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "cadf54a19bad182f7e65947782d2b86b",
-   "boyut": 34427392
+   "md5": "934e6c179535035ce4f0597e5d4962bd",
+   "boyut": 34428928
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "8a21e402b25f889c7b805553c23fa3af",
+  "md5": "1b7c2089034eba9a819994a73a966cb1",
   "boyut": 80641750
  }
 }
