@@ -1,13 +1,13 @@
 {
- "surum": 111,
- "ad": "Beta 1, sürüm 111",
- "notlar": "Çevrimiçi Düello artık ana menüde, Sızma'nın altında, yeni Çevrimiçi mod bölümünde.",
+ "surum": 112,
+ "ad": "Beta 1, sürüm 112",
+ "notlar": "Yeni: ana menünün sonunda Yenilikler bölümü, her güncellemede neyin değiştiğini okur. Çevrimiçi Düello'nun sunucusu da açıldı; arkadaşlarınla Çevrimiçi mod bölümünden oynayabilirsin.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "3d581fd5a4c86266a36e37e33d514d22",
-   "boyut": 34432512
+   "md5": "f15087d7a2faae67a258970b96a6bde5",
+   "boyut": 34441728
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "919eff10c4430a6b95fe8b46000f0b45",
-  "boyut": 80649942
+  "md5": "80e84482a14fda9c87abb01e71747389",
+  "boyut": 80662230
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
