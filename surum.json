@@ -1,13 +1,13 @@
 {
- "surum": 110,
- "ad": "Beta 1, sürüm 110",
- "notlar": "Çevrimiçi Düello için: sunucu uyuyorsa oyun artık birkaç saniye bekleyip bağlanıyor, lobide uzun beklerken bağlantı kopmuyor.",
+ "surum": 111,
+ "ad": "Beta 1, sürüm 111",
+ "notlar": "Çevrimiçi Düello artık ana menüde, Sızma'nın altında, yeni Çevrimiçi mod bölümünde.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "934e6c179535035ce4f0597e5d4962bd",
-   "boyut": 34428928
+   "md5": "3d581fd5a4c86266a36e37e33d514d22",
+   "boyut": 34432512
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "1b7c2089034eba9a819994a73a966cb1",
-  "boyut": 80641750
+  "md5": "919eff10c4430a6b95fe8b46000f0b45",
+  "boyut": 80649942
  }
 }
