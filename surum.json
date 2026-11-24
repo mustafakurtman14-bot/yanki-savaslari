@@ -1,13 +1,13 @@
 {
- "surum": 108,
- "ad": "Beta 1, sürüm 108",
- "notlar": "Eşlik görevlerinde hızlı menüdeki B artık seni eşlik ettiğin kişiye döndürür ve uzaklığını söyler; okul baskınında çocukları kampa götürürken çatışmada şıngırtıyı aramana gerek yok.",
+ "surum": 109,
+ "ad": "Beta 1, sürüm 109",
+ "notlar": "Yeni: Çevrimiçi Düello denemesi. Çatışma menüsünün sonunda. Arkadaşlarınla dört kişi, iki takım hâlinde birbirinize karşı oynarsınız; biri oda açar, öbürleri dört haneli kodla katılır.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "a481ab46a73fef4f925ee7945465b304",
-   "boyut": 32458240
+   "md5": "cadf54a19bad182f7e65947782d2b86b",
+   "boyut": 34427392
   },
   {
    "dosya": "telsiz.dat",
@@ -85,7 +85,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "c755444772fd6eb94c618b79b40aa5f4",
-  "boyut": 78544598
+  "md5": "8a21e402b25f889c7b805553c23fa3af",
+  "boyut": 80641750
  }
 }
