@@ -1,13 +1,13 @@
 {
- "surum": 114,
- "ad": "Beta 1, sürüm 114",
- "notlar": "Telefonda çevrimiçi Düello bağlantısı için ikinci düzeltme. Güncelleme bildirimi de düzeldi.",
+ "surum": 115,
+ "ad": "Beta 1, sürüm 115",
+ "notlar": "Telefonda çevrimiçi Düello bağlantısı baştan yapıldı: bağlantıyı artık güncellemeleri indiren telefon tarafı kuruyor.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "9c6b6f4fceb43dc3baf013a7410fe856",
-   "boyut": 34446336
+   "md5": "530c1b08d1b45c30f625dd22d7f45efc",
+   "boyut": 34447872
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "9a81f8e8b1e30fda7810a0d15fa4806f",
-  "boyut": 80678614
+  "md5": "b99eaea52c804083649033e1e51a85f2",
+  "boyut": 80690902
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
