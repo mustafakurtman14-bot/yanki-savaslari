@@ -1,13 +1,13 @@
 {
- "surum": 113,
- "ad": "Beta 1, sürüm 113",
- "notlar": "Çevrimiçi Düello düzeldi: telefonda sunucuya bağlanılamıyordu, artık bağlanıyor. Ad sorulmuyor, sunucu herkese kendisi ad veriyor.",
+ "surum": 114,
+ "ad": "Beta 1, sürüm 114",
+ "notlar": "Telefonda çevrimiçi Düello bağlantısı için ikinci düzeltme. Güncelleme bildirimi de düzeldi.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "6780d93e18f654e58e716834bfecb39d",
-   "boyut": 34445824
+   "md5": "9c6b6f4fceb43dc3baf013a7410fe856",
+   "boyut": 34446336
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "59010a0df6af16dbde537eb2f5927bb9",
-  "boyut": 80674518
+  "md5": "9a81f8e8b1e30fda7810a0d15fa4806f",
+  "boyut": 80678614
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
