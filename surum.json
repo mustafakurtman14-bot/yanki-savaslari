@@ -1,13 +1,13 @@
 {
- "surum": 115,
- "ad": "Beta 1, sürüm 115",
- "notlar": "Telefonda çevrimiçi Düello bağlantısı baştan yapıldı: bağlantıyı artık güncellemeleri indiren telefon tarafı kuruyor.",
+ "surum": 116,
+ "ad": "Beta 1, sürüm 116",
+ "notlar": "Yeni silah geliştirme: Çatışma, Son Siper ve Sızma'da silahların her yerden tecrübe kazanıyor, 30. seviyeye çıkıyor, yeni eklentiler, silah görevleri ve ses kaplamaları var. Hurdayla yaptığın silah geliştirmeleri iade edildi.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "530c1b08d1b45c30f625dd22d7f45efc",
-   "boyut": 34447872
+   "md5": "f0abeb40fa2d2ecf3e524bed6e0b023b",
+   "boyut": 34505728
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "b99eaea52c804083649033e1e51a85f2",
-  "boyut": 80690902
+  "md5": "c596eb6b2b93185b3fa1fa3c42ecc5de",
+  "boyut": 80748246
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
