@@ -1,13 +1,13 @@
 {
- "surum": 119,
- "ad": "Beta 1, sürüm 119",
- "notlar": "Çatışma'da yetenekler 18'e çıktı, aynı renkten üç yetenek uzmanlık verir. Yeni joker kartlar, alan donanımları (telefonda hızlı menüde), altı yeni seri ödülü ve hızlandırmalar. Ayarlarda düşman adım sesi ayarı.",
+ "surum": 120,
+ "ad": "Beta 1, sürüm 120",
+ "notlar": "Son Siper'e yenilikler: silah parçasıyla silah nadirliği, beş yeni içecek ve içecek yükseltmeleri, uzun gizli bulmaca, iki yeni harika silah.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "48c35272a83cab2673061d16fa255bbd",
-   "boyut": 34988032
+   "md5": "99c504b1032042b8b1b2b845475574eb",
+   "boyut": 35061248
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "4a95552d25deb7ee38b79696da1ad183",
-  "boyut": 81018948
+  "md5": "b1100c85a6f3bb71da83ef943646a208",
+  "boyut": 81109060
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
