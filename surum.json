@@ -1,13 +1,13 @@
 {
- "surum": 117,
- "ad": "Beta 1, sürüm 117",
- "notlar": "Altı yeni silah: ağır makineli, seri atışlı tüfek, savaş tüfeği, roketatar, arbalet, çift namlulu. Silahlarda prestij, çift silah tecrübesi jetonu ve ustalık zinciri.",
+ "surum": 118,
+ "ad": "Beta 1, sürüm 118",
+ "notlar": "Çatışma'ya üç yeni mod: Silah Çatışması, Hedef Avı, Cihaz Taşıma. Yüz yüze ve sert kurallar. Yeni hareketler: dalış ve duvardan sekme.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "fe701d6b43be168e42086c0f5e881115",
-   "boyut": 34883584
+   "md5": "cf3fb4d5a12018d83fd91cc9c110880c",
+   "boyut": 34934272
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "1f90e14f07f410c6d2188b75359b8b64",
-  "boyut": 80883780
+  "md5": "8b17c4133c64d211c66b3c56b4c74c78",
+  "boyut": 80945220
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
