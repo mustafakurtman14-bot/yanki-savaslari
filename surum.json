@@ -1,13 +1,13 @@
 {
- "surum": 118,
- "ad": "Beta 1, sürüm 118",
- "notlar": "Çatışma'ya üç yeni mod: Silah Çatışması, Hedef Avı, Cihaz Taşıma. Yüz yüze ve sert kurallar. Yeni hareketler: dalış ve duvardan sekme.",
+ "surum": 119,
+ "ad": "Beta 1, sürüm 119",
+ "notlar": "Çatışma'da yetenekler 18'e çıktı, aynı renkten üç yetenek uzmanlık verir. Yeni joker kartlar, alan donanımları (telefonda hızlı menüde), altı yeni seri ödülü ve hızlandırmalar. Ayarlarda düşman adım sesi ayarı.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "cf3fb4d5a12018d83fd91cc9c110880c",
-   "boyut": 34934272
+   "md5": "48c35272a83cab2673061d16fa255bbd",
+   "boyut": 34988032
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "8b17c4133c64d211c66b3c56b4c74c78",
-  "boyut": 80945220
+  "md5": "4a95552d25deb7ee38b79696da1ad183",
+  "boyut": 81018948
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
