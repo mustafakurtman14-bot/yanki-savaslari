@@ -1,13 +1,13 @@
 {
- "surum": 121,
- "ad": "Beta 1, sürüm 121",
- "notlar": "Çatışma'ya botlarla battle royale geldi: Son Kalan, Yeniden İniş ve Yağma, yeni büyük harita Kıyı Kasabası'nda. Daralan güvenli alan, düello hücresi, sandıklar, satın alma noktaları ve sözleşmeler. Telefonda satın almak için hızlı menüde Satın al var.",
+ "surum": 122,
+ "ad": "Beta 1, sürüm 122",
+ "notlar": "Sızma büyüdü: üç grup ve dokuzar görev, sığınak geliştirmeleri (geniş çanta, zırh, telsiz, dedektör, istihbarat, sigorta), depo anahtarı ve kilitli depo.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "34648457ae95330f9638395870871836",
-   "boyut": 35155456
+   "md5": "bc5e27bf8635e8cc1d45038ca6dea7b0",
+   "boyut": 35192320
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "327e0c6fe38b9994d1b1c512acbc4da8",
-  "boyut": 81227844
+  "md5": "423af7979832e68ba92b9be8e8b45a34",
+  "boyut": 81272900
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
