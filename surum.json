@@ -1,19 +1,19 @@
 {
- "surum": 123,
- "ad": "Beta 1, sürüm 123",
- "notlar": "Çevrimiçi Düello'da oda açan boş yerleri botla doldurabilir: lobide Boş yerlere bot ve Bot gücü. İki kişiyseniz her birinize bir bot takım arkadaşı düşer.",
+ "surum": 124,
+ "ad": "Beta 1, sürüm 124",
+ "notlar": "Sezon 7: Kırık Yankı geldi. Hikâyeye dokuz yeni görev, dokuz yeni harita ve yedi sesli film. Yeni karakterler duygulu yeni seslerle konuşuyor. Hikâye modunda Hikâyeye devam et ile oynayabilirsin.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "739d66b87f90cca8a56da0406bb6e6a4",
-   "boyut": 36034560
+   "md5": "e095ac28f97b0fdb26e4ef7bb5b617a0",
+   "boyut": 36524032
   },
   {
    "dosya": "telsiz.dat",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/telsiz.dat",
-   "md5": "496fb17ef610de930faa14518f2ad0da",
-   "boyut": 64405694
+   "md5": "a82883a45741003ff4660f53b9558079",
+   "boyut": 84097248
   },
   {
    "dosya": "nvdaControllerClient64.dll",
@@ -80,13 +80,55 @@
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/final_filmi.wav",
    "md5": "64103cf326a93101e1a3bc25b2e10e34",
    "boyut": 1161310
+  },
+  {
+   "dosya": "s7_bos_firin_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/s7_bos_firin_filmi.wav",
+   "md5": "7e57430740cda18da5eaaad2e7c17f1a",
+   "boyut": 1578078
+  },
+  {
+   "dosya": "s7_demirin_kapisi_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/s7_demirin_kapisi_filmi.wav",
+   "md5": "5569b04935427a7af0e0388a9f7bece1",
+   "boyut": 2394206
+  },
+  {
+   "dosya": "s7_derenin_kiyisi_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/s7_derenin_kiyisi_filmi.wav",
+   "md5": "58ffcad0974af9eea0a346dedbeef8e3",
+   "boyut": 1892446
+  },
+  {
+   "dosya": "s7_kesik_telsiz_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/s7_kesik_telsiz_filmi.wav",
+   "md5": "0413dcfa65dff2a7fe7b387159783bdb",
+   "boyut": 1519710
+  },
+  {
+   "dosya": "s7_kirik_yanki2_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/s7_kirik_yanki2_filmi.wav",
+   "md5": "4efc78f4b51763f84a06994bcffcc2bb",
+   "boyut": 1653854
+  },
+  {
+   "dosya": "s7_kirik_yanki_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/s7_kirik_yanki_filmi.wav",
+   "md5": "eed4e306808a56229c333c74254e6b44",
+   "boyut": 2047070
+  },
+  {
+   "dosya": "s7_sahte_ses_filmi.wav",
+   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/s7_sahte_ses_filmi.wav",
+   "md5": "d852decc5c152b55112f667b02dc1891",
+   "boyut": 1699934
   }
  ],
  "android": {
   "dosya": "YankiSavaslari.apk",
-  "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "85f7141ec2ec938028e605bde1f6b6f5",
-  "boyut": 82350148
+  "url": "https://github.com/mustafakurtman14-bot/yanki-savaslari/releases/download/s124/YankiSavaslari.apk",
+  "md5": "036ab22f5e456b72da8f01ffe11aca6b",
+  "boyut": 110088803
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
