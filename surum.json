@@ -1,13 +1,13 @@
 {
- "surum": 120,
- "ad": "Beta 1, sürüm 120",
- "notlar": "Son Siper'e yenilikler: silah parçasıyla silah nadirliği, beş yeni içecek ve içecek yükseltmeleri, uzun gizli bulmaca, iki yeni harika silah.",
+ "surum": 121,
+ "ad": "Beta 1, sürüm 121",
+ "notlar": "Çatışma'ya botlarla battle royale geldi: Son Kalan, Yeniden İniş ve Yağma, yeni büyük harita Kıyı Kasabası'nda. Daralan güvenli alan, düello hücresi, sandıklar, satın alma noktaları ve sözleşmeler. Telefonda satın almak için hızlı menüde Satın al var.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "99c504b1032042b8b1b2b845475574eb",
-   "boyut": 35061248
+   "md5": "34648457ae95330f9638395870871836",
+   "boyut": 35155456
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "b1100c85a6f3bb71da83ef943646a208",
-  "boyut": 81109060
+  "md5": "327e0c6fe38b9994d1b1c512acbc4da8",
+  "boyut": 81227844
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
