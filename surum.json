@@ -1,13 +1,13 @@
 {
- "surum": 122,
- "ad": "Beta 1, sürüm 122",
- "notlar": "Sızma büyüdü: üç grup ve dokuzar görev, sığınak geliştirmeleri (geniş çanta, zırh, telsiz, dedektör, istihbarat, sigorta), depo anahtarı ve kilitli depo.",
+ "surum": 123,
+ "ad": "Beta 1, sürüm 123",
+ "notlar": "Çevrimiçi Düello'da oda açan boş yerleri botla doldurabilir: lobide Boş yerlere bot ve Bot gücü. İki kişiyseniz her birinize bir bot takım arkadaşı düşer.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "bc5e27bf8635e8cc1d45038ca6dea7b0",
-   "boyut": 35192320
+   "md5": "739d66b87f90cca8a56da0406bb6e6a4",
+   "boyut": 36034560
   },
   {
    "dosya": "telsiz.dat",
@@ -85,8 +85,8 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.apk",
-  "md5": "423af7979832e68ba92b9be8e8b45a34",
-  "boyut": 81272900
+  "md5": "85f7141ec2ec938028e605bde1f6b6f5",
+  "boyut": 82350148
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
 }
