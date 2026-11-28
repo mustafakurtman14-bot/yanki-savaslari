@@ -1,13 +1,13 @@
 {
- "surum": 124,
- "ad": "Beta 1, sürüm 124",
- "notlar": "Sezon 7: Kırık Yankı geldi. Hikâyeye dokuz yeni görev, dokuz yeni harita ve yedi sesli film. Yeni karakterler duygulu yeni seslerle konuşuyor. Hikâye modunda Hikâyeye devam et ile oynayabilirsin.",
+ "surum": 125,
+ "ad": "Beta 1, sürüm 125",
+ "notlar": "Çevrimiçi modda artık Botlarla maç bölümündeki modlar da var: odayı açan modu seçer, boş yerleri botlar doldurur. Bu güncelleme şimdilik bilgisayar ve tarayıcı için; telefon güncellemesi birkaç gün içinde gelecek.",
  "pc": [
   {
    "dosya": "YankiSavaslari.exe",
    "url": "https://raw.githubusercontent.com/mustafakurtman14-bot/yanki-savaslari/main/YankiSavaslari.exe",
-   "md5": "e095ac28f97b0fdb26e4ef7bb5b617a0",
-   "boyut": 36524032
+   "md5": "cd896742d6be212b6a662d80d12aa12f",
+   "boyut": 35819520
   },
   {
    "dosya": "telsiz.dat",
@@ -127,7 +127,7 @@
  "android": {
   "dosya": "YankiSavaslari.apk",
   "url": "https://github.com/mustafakurtman14-bot/yanki-savaslari/releases/download/s124/YankiSavaslari.apk",
-  "md5": "036ab22f5e456b72da8f01ffe11aca6b",
+  "md5": "",
   "boyut": 110088803
  },
  "sunucu": "https://yanki-sunucusu.replit.app"
